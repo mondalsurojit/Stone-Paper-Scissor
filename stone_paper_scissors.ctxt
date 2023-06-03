@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=stone_paper_scissors
+comment1.params=
+comment1.target=int\ outcome()
+comment2.params=in
+comment2.target=void\ compare(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
